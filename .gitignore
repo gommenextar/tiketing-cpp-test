@@ -1,0 +1,6 @@
+/tiketing.exe
+/tiketing
+*.o
+*.obj
+*.exe
+.vscode/
