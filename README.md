@@ -30,3 +30,6 @@ g++ -std=c++11 -O2 src\main.cpp -o tiketing.exe -lws2_32
 1. Ketik kata kunci misalnya `DPS` atau `Garuda`, lalu **Cari tiket**.
 2. Pilih urutan **Harga termurah** atau **Durasi terpendek**.
 3. Panel kanan menampilkan log perbandingan search dan sorting.
+
+#gasthareminder
+lokasi file di users/myhypebook/projects/
